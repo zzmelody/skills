@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目规范初始化"
+  short_description: "通过项目分析与开发者讨论，生成精简入口和独立的项目、代码及验证规范"
+  default_prompt: "使用 $project-conventions-init，先了解项目类型和技术方案，再为当前项目初始化精简的 AGENTS.md 与自包含规范 skills。"
